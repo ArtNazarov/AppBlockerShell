@@ -16,3 +16,5 @@ systemctl enable monitor.service
 ```
 
 5. By default time for blocking from 3:00 to 19:00
+
+6. To edit settings or restart service run app_blocker.sh

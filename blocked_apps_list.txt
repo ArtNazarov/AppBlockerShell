@@ -1,0 +1,6 @@
+mpv
+koko
+vlc
+brave
+gwenview
+wine

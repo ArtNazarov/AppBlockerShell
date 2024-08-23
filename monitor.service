@@ -1,0 +1,9 @@
+[Unit]
+Description=Block apps
+
+[Service]
+ExecStart=/home/username/blocked_apps.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
